@@ -1,0 +1,58 @@
+.uno {
+    height:410px;
+    width: 710px;
+    background-color:#8cb27c;
+    position: static;
+     }
+.dos {
+    height:380px;
+    width: 680px;
+    position: absolute;
+    top:20px;
+    left: 20px;
+    border: 2px solid white;
+    }
+.tres {
+    height:150px;
+    width: 100px;
+    position: absolute;
+    top:110px;
+    left: 0px;
+     border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-right: 2px solid white;
+    }
+.cuatro {
+    height:150px;
+    width: 103px;
+    position: absolute;
+    top:10px;
+    left: 575px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    }
+.cinco {
+    width: 150px;
+     height: 150px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 2px solid white;
+    position: absolute;
+    right: 260px;
+    }
+.primer {
+    position: absolute;
+    left: 350px;
+    top: 50px;
+}
+.segundo {
+    position: absolute;
+    left: 550px;
+    top: 250px;
+}
+.tercero {
+    position: absolute;
+    left: 90px;
+}
